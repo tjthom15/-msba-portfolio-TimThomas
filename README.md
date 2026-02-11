@@ -11,7 +11,7 @@ Our Results are:
 
 We ran our code using Juptyer Lab which is based in Anaconda Navigator. The code is based in the Python coding language. The program was based on the "rententiondaata_case.csv" file. This will need to be downloaded in conjuction with the KGBoost based case file. 
 
-
+The main limitation to the program is that we really only looked a couple variables and we did not do market research into the problem. 
   
 
 

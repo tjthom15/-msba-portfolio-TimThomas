@@ -1,5 +1,5 @@
 What did you personally contribute to the most?
-There are fantastic coders in my group and they really understood that part of the assisgnment well. I tried to gate keep some of the decisions because they started getting very technical in nature. Additionally, I helped make decisions and support the conversation analytically. I felt like I started moving in a managing position. 
+There are fantastic coders in my group and they really understood that part of the assisgnment well.  Additionally, I helped make decisions and support the conversation analytically. I felt like I started moving in a managing position. I tried to pick up the slack of the work this included items like the powerpoint presentation and specifically the recommendations. I had a strong theoretical background so these elements seem to work well.  
 
 • What is one decision or approach you personally advocated for and why?
 
@@ -10,6 +10,7 @@ highest AUC score.
 you add on or improve in your case if you had more time?
 
 Too many cooks ruin the soup. We had 4 models to work and code with the data. We also had 5 people in our group. This meant that some of us could not help with the coding and led us to find other 
-ways to help (Powerpoint, trying to build slides, etc). 
+ways to help (Powerpoint, trying to build slides, etc). I believe that we followed the guideline fairly closely and kept it within the time limit. We did not have an extreme amount of data 
+on our slides and it looked approachable. I believe that we did solid basic work with the data provided. 
 
 Additionally, The team waited until the last minute to put the slides together. This process was very frustrating. We could have made a much more polished product or pitch. I believe this is very evident with the note card reading. I wish it was much more polished. 
